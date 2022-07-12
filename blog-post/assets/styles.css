@@ -23,5 +23,12 @@ img {
 }
 
 blockquote {
-    margin-left: 130px;
+    margin-left: 120px;
+    margin-bottom: 15px;
+}
+
+p {
+    margin-bottom: 8px;
+    text-align: left;
+    line-height: 20px;
 }
